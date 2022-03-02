@@ -1,17 +1,3 @@
-# Introduction  
 
-This project is about using your own computer for using git and git hub through vagerant  and viruual box 
-
-# steps needed 
-
-
-      1) Download and  Install virtual box 
-      
-      2) Download and  Install vagrant 
-      
-      3) open CMD 
-       
-      4) Add the Ubuntu 20.04 (Focal) image to your box list
-      
       
       
