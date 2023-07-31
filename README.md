@@ -1,14 +1,14 @@
-#Introducton
+# Introducton
 
 this project is called vagrant and it enables us to create a virtual machine in our CL
 
-#softwares
+# softwares
 
   -virtual box
   -vagrant
   -cmd,gitbash or other terminals 
 
-#procedures
+# procedures
 
 install virtual box 
 
